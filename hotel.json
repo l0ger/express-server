@@ -1,0 +1,24 @@
+{
+  "hotels": [
+    {
+      "name":"Hotel1",
+      "score": 40,
+      "price": "500$"
+    },
+    {
+      "name":"Hotel2",
+      "score": 20,
+      "price": "700$"
+    },
+    {
+      "name":"Hotel3",
+      "score": 40,
+      "price": "300$"
+    },
+    {
+      "name":"Hotel4",
+      "score": 30,
+      "price": "500$"
+    }
+  ]
+}
